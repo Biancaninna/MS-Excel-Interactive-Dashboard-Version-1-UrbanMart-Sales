@@ -2,6 +2,10 @@
 
 In this project, we will create dynamic and interactive dashboard of UrbanMart Sales by Region using MS Excel. We will use the latest tools that are very popular and in very high demand in the market. The dashboard showcase the most important information and various KPI that can be formed using the UrbanMart company data. The major excel tool used is pivot table and pivot charts.
 
+### To see the final result of dashboard visualization using MS Excel, visit:
+
+[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]( https://biancaninna.github.io/MS-Excel-Dashboard-Simple-Analysis-of-UrbanMart-Sales-by-Region/)
+
 ## Requirements
 
 Our clients wants us to create simple analysis of UrbanMart Sales by Region MS Excel Dynamic Dashboard for period 2023 - 2024, so that they can have insight on below requirements:
@@ -35,43 +39,41 @@ Our clients wants us to create simple analysis of UrbanMart Sales by Region MS E
     1. Convert the data into table
     2. Insert pivot table 
 
-    ![Data](/images/data.PNG)
+    ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-1-UrbanMart-Sales/blob/3f1968be0b4dfbce27e58ad7e9d31e90023b200e/Images/Data%20Source.png)
 
 2. **Total Sales Monthly Trend**
 
     Insert the pivot table where month as the row labels and TransactionValue as the values. Then apply line chart.
 
-    ![Total Sales Monthly Trend](/images/unit_sold_each_month.PNG)
+     ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-1-UrbanMart-Sales/blob/3f1968be0b4dfbce27e58ad7e9d31e90023b200e/Images/Total%20Sales%20Monthly%20Trend.png)
 
 3. **Total Sales by Category**
 
     Insert the pivot table where ProductCategory as the row labels and TransactionValue as the values. Then the Bar chart.
 
-    ![Total Sales by Category](/images/unit%20product%20sold.PNG)
+   ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-1-UrbanMart-Sales/blob/3f1968be0b4dfbce27e58ad7e9d31e90023b200e/Images/Total%20Sales%20by%20Age%20Category.png)
 
 4. **Total Transaction by Payment Method**
 
     Insert the pivot table where PaymentMethod as the row labels and TransactionValue as the values. Then the Pie chart.
 
-    ![Total Transaction by Payment Method](/images/unit%20product%20sold.PNG)
+   ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-1-UrbanMart-Sales/blob/3f1968be0b4dfbce27e58ad7e9d31e90023b200e/Images/Total%20Transaction%20by%20Payment%20Method.png)
 
 5. **Total Sales by Age Category**
 
     Insert the pivot table where CustomerAgeGroup as the row labels and TransactionValue as the values. Then the Column chart.
 
-    ![Total Sales by Age Category](/images/unit%20product%20sold.PNG)
-6.  **Slicer**
+   ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-1-UrbanMart-Sales/blob/3f1968be0b4dfbce27e58ad7e9d31e90023b200e/Images/Total%20Sales%20by%20Age%20Category.png)
+   
+7.  **Slicer**
 
     Select the chart and insert slicer from going to the pivot analyze. Connect slicer to all the pivot table.
 
-    ![Slicer](/images/slicer.PNG)
-
-7.  **Hyperlink**
+    ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-1-UrbanMart-Sales/blob/3f1968be0b4dfbce27e58ad7e9d31e90023b200e/Images/Slicer.png)
+    
+9.  **Hyperlink**
 
     Select insert picture then right click and select hyperlink.
 
-    ![Hyperlink](/images/slicer.PNG)
+    ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-1-UrbanMart-Sales/blob/3f1968be0b4dfbce27e58ad7e9d31e90023b200e/Images/Hyperlink.png)
 
-### To see the final result of dashboard visualization using MS Excel, visit:
-
-[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]( https://biancaninna.github.io/MS-Excel-Dashboard-Simple-Analysis-of-UrbanMart-Sales-by-Region/)
