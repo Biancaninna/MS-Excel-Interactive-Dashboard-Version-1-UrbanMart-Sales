@@ -4,7 +4,7 @@ In this project, we will create dynamic and interactive dashboard of UrbanMart S
 
 ### To see the final result of dashboard visualization using MS Excel, visit:
 
-[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]( https://biancaninna.github.io/MS-Excel-Dashboard-Simple-Analysis-of-UrbanMart-Sales-by-Region/)
+[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://1drv.ms/x/c/0650c4db5a26dd3c/IQSFSvG_IVPUSZkukJ_3mdRIAbXNJyLKZnGxdCZlGVIVtis?em=2&AllowTyping=True&ActiveCell='Dashboard'!C28&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
 ## Requirements
 
